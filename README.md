@@ -56,3 +56,13 @@ Brain_Tumor_Classification_using_SVM-KNN/
 ├── README.md
 └── requirements.txt
 ```
+
+---
+## 📝 Notes & Next Steps
+- This project uses classic ML methods; extending to deep learning (e.g., CNN) can significantly improve performance.
+- Future improvements may include:
+  - Transfer learning (e.g., pre-trained CNN feature extraction)
+  - Cross-validation and hyperparameter optimization
+  - Explainable AI for medical interpretability
+
+---
